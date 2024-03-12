@@ -1,7 +1,5 @@
 <?php
-
 $hardware=['Motherboard','Processor','Hard Disk','PC Coller','VGA Card','SSD']
-
 ?>
 
 <!DOCTYPE html>
